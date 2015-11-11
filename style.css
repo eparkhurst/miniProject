@@ -1,10 +1,18 @@
-/*body{
-  background-image: url('http://hdwyn.com/wallpaper/field_grass_rain_clouds_wind_weather_hd-wallpaper-46204.jpg');
+body{
+  background-image: url('http://www.siwallpaperhd.com/wp-content/uploads/2015/06/awesome_weather_wallpaper_hd_5-724x407.jpg');
   background-size: cover;
-}*/
+}
 h1{
-  color: black;
+  color: white;
 }
 header{
   text-align: center;
+}
+.weatherInfo{
+  display:none;
+  text-align: center;
+  width:300px;
+  border: 3px solid white;
+  margin:50px auto;
+  color: white;
 }
